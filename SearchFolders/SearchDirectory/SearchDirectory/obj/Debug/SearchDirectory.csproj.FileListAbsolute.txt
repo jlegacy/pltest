@@ -1,0 +1,6 @@
+C:\Users\jlegacy\Documents\Visual Studio 2013\Projects\PrecisionLenderTest\SearchFolders\SearchDirectory\SearchDirectory\bin\Debug\SearchDirectory.exe.config
+C:\Users\jlegacy\Documents\Visual Studio 2013\Projects\PrecisionLenderTest\SearchFolders\SearchDirectory\SearchDirectory\bin\Debug\SearchDirectory.exe
+C:\Users\jlegacy\Documents\Visual Studio 2013\Projects\PrecisionLenderTest\SearchFolders\SearchDirectory\SearchDirectory\bin\Debug\SearchDirectory.pdb
+C:\Users\jlegacy\Documents\Visual Studio 2013\Projects\PrecisionLenderTest\SearchFolders\SearchDirectory\SearchDirectory\obj\Debug\SearchDirectory.csprojResolveAssemblyReference.cache
+C:\Users\jlegacy\Documents\Visual Studio 2013\Projects\PrecisionLenderTest\SearchFolders\SearchDirectory\SearchDirectory\obj\Debug\SearchDirectory.exe
+C:\Users\jlegacy\Documents\Visual Studio 2013\Projects\PrecisionLenderTest\SearchFolders\SearchDirectory\SearchDirectory\obj\Debug\SearchDirectory.pdb

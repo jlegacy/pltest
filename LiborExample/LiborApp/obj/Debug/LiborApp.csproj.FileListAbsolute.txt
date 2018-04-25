@@ -1,0 +1,11 @@
+C:\Users\jlegacy\Documents\Visual Studio 2013\Projects\PrecisionLenderTest\LiborExample\LiborApp\LiborApp\bin\Debug\LiborApp.exe.config
+C:\Users\jlegacy\Documents\Visual Studio 2013\Projects\PrecisionLenderTest\LiborExample\LiborApp\LiborApp\bin\Debug\LiborApp.exe
+C:\Users\jlegacy\Documents\Visual Studio 2013\Projects\PrecisionLenderTest\LiborExample\LiborApp\LiborApp\bin\Debug\LiborApp.pdb
+C:\Users\jlegacy\Documents\Visual Studio 2013\Projects\PrecisionLenderTest\LiborExample\LiborApp\LiborApp\obj\Debug\LiborApp.csprojResolveAssemblyReference.cache
+C:\Users\jlegacy\Documents\Visual Studio 2013\Projects\PrecisionLenderTest\LiborExample\LiborApp\LiborApp\obj\Debug\LiborApp.exe
+C:\Users\jlegacy\Documents\Visual Studio 2013\Projects\PrecisionLenderTest\LiborExample\LiborApp\LiborApp\obj\Debug\LiborApp.pdb
+C:\Users\jlegacy\Documents\Visual Studio 2013\Projects\PrecisionLenderTest\LiborExample\LiborApp\bin\Debug\LiborApp.exe.config
+C:\Users\jlegacy\Documents\Visual Studio 2013\Projects\PrecisionLenderTest\LiborExample\LiborApp\obj\Debug\LiborApp.exe
+C:\Users\jlegacy\Documents\Visual Studio 2013\Projects\PrecisionLenderTest\LiborExample\LiborApp\obj\Debug\LiborApp.pdb
+C:\Users\jlegacy\Documents\Visual Studio 2013\Projects\PrecisionLenderTest\LiborExample\LiborApp\bin\Debug\LiborApp.exe
+C:\Users\jlegacy\Documents\Visual Studio 2013\Projects\PrecisionLenderTest\LiborExample\LiborApp\bin\Debug\LiborApp.pdb

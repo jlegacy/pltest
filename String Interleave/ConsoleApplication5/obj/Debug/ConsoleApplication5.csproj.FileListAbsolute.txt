@@ -1,0 +1,11 @@
+c:\users\jlegacy\documents\visual studio 2013\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+c:\users\jlegacy\documents\visual studio 2013\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+c:\users\jlegacy\documents\visual studio 2013\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+c:\users\jlegacy\documents\visual studio 2013\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+c:\users\jlegacy\documents\visual studio 2013\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb
+C:\Users\jlegacy\Documents\Visual Studio 2013\Projects\PrecisionLenderTest\String Interleave\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+C:\Users\jlegacy\Documents\Visual Studio 2013\Projects\PrecisionLenderTest\String Interleave\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+C:\Users\jlegacy\Documents\Visual Studio 2013\Projects\PrecisionLenderTest\String Interleave\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb
+C:\Users\jlegacy\Documents\Visual Studio 2013\Projects\PrecisionLenderTest\String Interleave\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+C:\Users\jlegacy\Documents\Visual Studio 2013\Projects\PrecisionLenderTest\String Interleave\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+C:\Users\jlegacy\Documents\Visual Studio 2013\Projects\PrecisionLenderTest\String Interleave\ConsoleApplication5\obj\Debug\ConsoleApplication5.csprojResolveAssemblyReference.cache
