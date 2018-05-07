@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "bluebird": "^3.5.1",
+    "express": "^4.16.3",
     "flexbox": "^0.0.3",
     "jquery": "^3.3.1"
   }

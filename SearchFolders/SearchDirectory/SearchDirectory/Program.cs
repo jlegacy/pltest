@@ -15,7 +15,7 @@ namespace SearchDirectory
                 string output = Path.GetFullPath("../../WriteLines.txt");
 
                 const string searchFilePattern = "*";
-                const string searchLinePattern = "one";
+                const string searchLinePattern = "bad";
 
                 var di = new DirectoryInfo(path);
                 var numberOfLines = 0;
@@ -32,11 +32,12 @@ namespace SearchDirectory
                         {
                             if (x.Contains(searchLinePattern))
                             {
-                                int i = 0;
-                                while ((x.IndexOf(searchLinePattern, i, System.StringComparison.Ordinal)) != -1)
+                                var position = (x.IndexOf(searchLinePattern, 0, System.StringComparison.Ordinal));
+                               // var searchLength = searchLinePattern.Length;
+                                while (position != -1)
                                 {
-                                    i += searchLinePattern.Length;
                                     numberOfMatches++;
+                                    position = (x.IndexOf(searchLinePattern, position += 1, System.StringComparison.Ordinal));
                                 }
 
                                 numberOfLines += 1;
@@ -55,7 +56,7 @@ namespace SearchDirectory
                     }
 
                     outputFile.Close();
-
+                    Console.WriteLine("Search Term : " + searchLinePattern);
                     Console.WriteLine("Total Number of Files Searched : " + files.Length);
                     Console.WriteLine("Matching Number of Lines : " + numberOfLines);
                     Console.WriteLine("Matching Number of Occurrences: " + numberOfMatches);
