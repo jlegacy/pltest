@@ -1,1 +1,3 @@
-from node.js command prompt issue following command: node server.js
+from node.js command prompt issue following commands: 
+npm install
+node server.js
